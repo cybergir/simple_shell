@@ -1,4 +1,4 @@
-#include "holberton.h"[main.h"
+#include "main.h"
 /**
  * prompt - writes a prompt
  *
